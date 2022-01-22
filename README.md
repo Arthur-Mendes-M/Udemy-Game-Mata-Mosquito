@@ -1,6 +1,6 @@
 # Udemy - Jogo mata mosquito
 
-<img src="#" alt="Print - Jogo mata mosquito">
+<img src="Print-jogo-mata-mosquito.png" alt="Print - Jogo mata mosquito">
 
 Data dos dados a seguir - Janeiro de 2022.
 
@@ -19,4 +19,4 @@ Nele o objetivo é bem simples, porém <br>
 <br>
 Basta que o jogador assim que se inicia o jogo, clicar sobre os mosquitos que aparecem randomicamente na tela, não podendo deixa-lo desaparecer novamente.
 
-<a href="#">Caso queira tentar a sorte, fique a vontade para testar ;]</a>
+<a href="https://arthur-mendes-m.github.io/Udemy-Game-Mata-Mosquito/">Caso queira tentar a sorte, fique a vontade para testar ;]</a>
